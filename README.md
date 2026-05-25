@@ -1,6 +1,8 @@
 ## Alex's code zone
 
-[![zoneby-Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoneby-Alex)](https://github.com/zoneby-Alex/github-readme-stats)
+### 💻 我的编程语言统计
+[![Top Langs](https://vercel.app)](https://github.com/zoneby-Alex/github-readme-stats/blob/master/docs/readme_cn.md)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoneby-Alex/zoneby-Alex/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoneby-Alex/zoneby-Alex/output/github-contribution-grid-snake.svg">
