@@ -1,7 +1,7 @@
 ## Alex's code zone
 
 ### 💻 我的编程语言统计
-[![Top Langs](https://vercel.app)](https://github.com/zoneby-Alex/github-readme-stats/blob/master/docs/readme_cn.md)
+![Top Langs](https://github-readme-stats-tan-nine-78.vercel.app/api/top-langs/?username=zoneby-Alex&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoneby-Alex/zoneby-Alex/output/github-contribution-grid-snake-dark.svg">
